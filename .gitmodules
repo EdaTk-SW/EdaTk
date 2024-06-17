@@ -1,0 +1,9 @@
+[submodule "ldap_perl"]
+	path = ldap_perl
+	url = https://github.com/EdaTk-SW/ldap_perl.git
+[submodule "smtp_perl"]
+	path = smtp_perl
+	url = https://github.com/EdaTk-SW/smtp_perl.git
+[submodule "stack"]
+	path = stack
+	url = https://github.com/EdaTk-SW/stack.git
